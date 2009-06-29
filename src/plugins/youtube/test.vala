@@ -1,4 +1,5 @@
 using GLib;
+using GStreamer;
 
 public class Youtube.Plugin : GLib.Object {
 
